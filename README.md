@@ -1,16 +1,44 @@
-### Hi there 👋
+## About Me 
 
-<!--
-**kircat-concatenation/kircat-concatenation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, My Name is Kira 
 
-Here are some ideas to get you started:
+* I am a tech hobbyist from Southern Arizona 
+* I am currently pursuing a BSP in Urban Planning from Arizona State University
+* In my free time, I enjoy tinkering with my Linux Desktop experience, as well as trying out new software projects I find on github.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+* Proficient with Linux Systems Operation and Administration 
+* Proficient with Windows Systems Operation and Administration 
+* Experience with BASH and Lua Scripting Languages 
+* Experience with C and Python Programmng Languages 
+* Experience with SQL  
+
+## Learning
+* z/OS
+* COBOL
+* Practical Application of Docker/Kubernetes 
+
+## Interests
+
+* FOSS Software
+
+* Artificial Inteligence Applications on Linux
+
+* Productivity Applications on Linux
+
+* Virtual Reality/Augmented Reality Applications on Linux
+
+## Operating System of Choice
+
+I am currently running Fedora 36 on all my systems. 
+
+## Current Favorite Inspirational Quote 
+“Our feelings are our most genuine paths to knowledge.” 
+- Audre Lorde
+
+## Badges 
+
+<div id="badges">
+  <img src="https://images.credly.com/images/c8f58c5c-e4dc-4d80-9b5d-3ae174cbab72/image.png" width="150"/>
+</div>
