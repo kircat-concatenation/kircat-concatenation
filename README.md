@@ -3,13 +3,14 @@
 Hello, My Name is Kira 
 
 * I am a tech hobbyist from Southern Arizona 
-* I am currently pursuing a BSP in Urban Planning from Arizona State University
+* I am currently studying at Pima Community College
 * In my free time, I enjoy tinkering with my Linux Desktop experience, as well as trying out new software projects I find on github.
 
 ## Skills
 
 * Proficient with Linux Systems Operation and Administration 
-* Proficient with Windows Systems Operation and Administration 
+* Proficient with Windows Systems Operation and Administration
+* Proficient with MacOS Systems Operation and Administration 
 * Experience with BASH and Lua Scripting Languages 
 * Experience with C and Python Programmng Languages 
 * Experience with SQL  
