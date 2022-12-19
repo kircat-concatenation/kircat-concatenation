@@ -16,8 +16,7 @@ Hello, My Name is Kira
 * Experience with SQL  
 
 ## Learning
-* z/OS
-* COBOL
+* Front-End Technologies
 * Practical Application of Docker/Kubernetes 
 
 ## Interests
