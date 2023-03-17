@@ -12,8 +12,7 @@ Hello, My Name is Kira
 * Proficient with Windows Systems Operation and Administration
 * Proficient with MacOS Systems Operation and Administration 
 * Experience with BASH and Lua Scripting Languages 
-* Experience with C and Python Programmng Languages 
-* Experience with SQL  
+* Experience with C and Python Programmng Languages   
 
 ## Learning
 * Front-End Technologies
