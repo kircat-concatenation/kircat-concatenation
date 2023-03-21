@@ -10,7 +10,7 @@ Hello, My Name is Kira
 
 * Proficient with Linux Systems Operation and Administration 
 * Proficient with Windows Systems Operation and Administration
-* Proficient with MacOS Systems Operation and Administration 
+* Proficient with MacOS Systems Operation
 * Experience with BASH and Lua Scripting Languages 
 * Experience with C and Python Programmng Languages   
 
