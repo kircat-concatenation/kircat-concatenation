@@ -9,7 +9,7 @@ Hello, My Name is Kira
 ## Skills
 
 * Proficient with Linux Systems Operation and Administration 
-* Proficient with Windows Systems Operation and Administration
+* Proficient with Windows Systems Operation and Basic Administration
 * Proficient with MacOS Systems Operation
 * Experience with BASH and Lua Scripting Languages 
 * Experience with C and Python Programmng Languages   
@@ -30,7 +30,7 @@ Hello, My Name is Kira
 
 ## Operating System of Choice
 
-I am currently running Fedora 36 on all my systems. 
+I am currently running Fedora 37 on all my systems. 
 
 ## Current Favorite Inspirational Quote 
 “Our feelings are our most genuine paths to knowledge.” 
