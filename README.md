@@ -3,7 +3,7 @@
 Hello, My Name is Kira 
 
 * I am a tech hobbyist from Southern Arizona 
-* I am currently studying at Pima Community College
+* I am currently studying at Arizona State University
 * In my free time, I enjoy tinkering with my Linux Desktop experience, as well as trying out new software projects I find on github.
 
 ## Skills
@@ -12,7 +12,7 @@ Hello, My Name is Kira
 * Proficient with Windows Systems Operation and Basic Administration
 * Proficient with MacOS Systems Operation
 * Experience with BASH and Lua Scripting Languages 
-* Experience with C and Python Programmng Languages   
+* Experience with C, Python, and Java Programmng Languages   
 
 ## Learning
 * Front-End Technologies
@@ -36,8 +36,4 @@ I am currently running Fedora 38 on all my systems.
 “Our feelings are our most genuine paths to knowledge.” 
 - Audre Lorde
 
-## Badges 
 
-<div id="badges">
-  <img src="https://images.credly.com/images/c8f58c5c-e4dc-4d80-9b5d-3ae174cbab72/image.png" width="150"/>
-</div>
