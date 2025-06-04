@@ -22,8 +22,6 @@ Hello, My Name is Kira
 
 * FOSS Software
 
-* Artificial Inteligence Applications on Linux
-
 * Productivity Applications on Linux
 
 * Virtual Reality/Augmented Reality Applications on Linux
