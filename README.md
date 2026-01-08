@@ -33,6 +33,3 @@ I am currently running Fedora 42 on all my systems.
 ## Current Favorite Inspirational Quote 
 “Our feelings are our most genuine paths to knowledge.” 
 - Audre Lorde
-
-
-[![Kira's Github Stats](https://github-readme-stats.vercel.app/api?username=kircat-concatenation&show=top-langs)](https://github.com/anuraghazra/github-readme-stats)
