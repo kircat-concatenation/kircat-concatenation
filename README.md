@@ -28,7 +28,7 @@ Hello, My Name is Kira
 
 ## Operating System of Choice
 
-I am currently running Fedora 42 on all my systems. 
+I am currently running Fedora 44 on all my systems. 
 
 ## Current Favorite Inspirational Quote 
 “Our feelings are our most genuine paths to knowledge.” 
